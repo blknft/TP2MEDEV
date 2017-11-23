@@ -8,7 +8,7 @@ public class TraitementImage {
 
 
     public static void main(String[] args) {
-        
+        PGM lena = new PGM("/Users/Khalil/Desktop/ECN/INFORMATIQUE/MEDEV/TP2/lena.pgm");
     }
     
     public static void lecture(String fichier) {
